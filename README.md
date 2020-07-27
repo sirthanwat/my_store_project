@@ -1,4 +1,4 @@
-1.8.0_251# "AmazonDemo" 
+# "MyStore Project(E-commerce Application)" 
 
 ## Created framework using BDD and Page object model
 
